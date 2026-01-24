@@ -51,7 +51,7 @@ Agar aset ini tetap bisa dinikmati semua orang, mohon ikuti aturan sederhana ini
 ---
 
 ## 🤝 Kontribusi
-Punya ide atau menemukan bug? Jangan ragu untuk membuka **Issue** atau kirim **Pull Request**. Kontribusi kamu sangat berharga untuk mengembangkan komunitas ini!
+Punya ide atau menemukan bug? Jangan ragu untuk membuka **Issue**/**Pull Request** atau **Ajukan Lewat Sosial Media**. Kontribusi kamu sangat berharga untuk mengembangkan komunitas ini!
 
 <p align="center">
   Developed with 🧠 by <b>TheDranxX</b><br>
