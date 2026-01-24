@@ -57,6 +57,6 @@ Agar aset ini tetap bisa dinikmati semua orang, mohon ikuti aturan sederhana ini
 Punya ide atau menemukan bug? Jangan ragu untuk membuka **Issue** atau kirim **Pull Request**. Kontribusi kamu sangat berharga untuk mengembangkan komunitas ini!
 
 <p align="center">
-  Developed with ✨ by <b>TheDranxX</b><br>
+  Developed with 🧠 by <b>TheDranxX</b><br>
   <i>"Happy Building, Happy Scripting!"</i>
 </p>
