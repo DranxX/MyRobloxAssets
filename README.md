@@ -3,7 +3,19 @@
 Welcome! This repository contains a collection of Roblox assets created and shared **for free** by @TheDranxX. Feel free to use them in your projects, but please respect the terms below.
 
 ---
+<a href="https://www.instagram.com/the_dranxx">
+  <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
+</a>
+<a href="https://youtube.com/@TheDranxX">
+  <img align="left" alt="Youtube" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg" />
+</a>
+<a href="https://tiktok.com/@thedranxx">
+  <img align="left" alt="Tiktok" width="21px" src="https://static.cdnlogo.com/logos/t/69/tiktok-icon.svg" />
+</a>
 
+<br>
+  
+---
 ## 📦 Included Assets
 
 - Scripts
