@@ -1,8 +1,8 @@
 # 📦 TheDranxX Roblox Assets Library
 
 ![License](https://img.shields.io/badge/License-Free-brightgreen?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Roblox-00A2FF?style=flat-square&logo=roblox)
-![Discord](https://img.shields.io/badge/Community-Discord-7289DA?style=flat-square&logo=discord)
+<a href="https://creator.roblox.com/"><img src="https://img.shields.io/badge/Platform-Roblox-00A2FF?style=flat-square&logo=roblox" /></a>
+<a href="https://discord.gg/Bb3aY3Wrxj"><img src="https://img.shields.io/badge/Community-Discord-7289DA?style=for-the-badge&logo=discord" /></a>
 
 Selamat datang di repositori aset resmi oleh **@TheDranxX**. Koleksi ini menyediakan berbagai kebutuhan development Roblox yang bisa kamu gunakan secara gratis untuk mempercepat pembuatan game.
 
