@@ -1,61 +1,62 @@
-# TheDranxX Roblox Assets
+# 📦 TheDranxX Roblox Assets Library
 
-Welcome! This repository contains a collection of Roblox assets created and shared **for free** by @TheDranxX. Feel free to use them in your projects, but please respect the terms below.
+![License](https://img.shields.io/badge/License-Free-brightgreen?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Roblox-00A2FF?style=flat-square&logo=roblox)
+![Discord](https://img.shields.io/badge/Community-Discord-7289DA?style=flat-square&logo=discord)
 
----
-<a href="https://www.instagram.com/the_dranxx">
-  <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
-</a>
-<a href="https://youtube.com/@TheDranxX">
-  <img align="left" alt="Youtube" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg" />
-</a>
-<a href="https://tiktok.com/@thedranxx">
-  <img align="left" alt="Tiktok" width="21px" src="https://static.cdnlogo.com/logos/t/69/tiktok-icon.svg" />
-</a>
+Selamat datang di repositori aset resmi oleh **@TheDranxX**. Koleksi ini menyediakan berbagai kebutuhan development Roblox yang bisa kamu gunakan secara gratis untuk mempercepat pembuatan game.
 
-<br>
-  
----
-## 📦 Included Assets
-
-- Scripts
-- Models
-- GUI elements
-- Tools
-- Miscellaneous assets
-
-> Each asset is provided as-is and can be customized or integrated into your Roblox games.
 
 ---
 
-## ⚡ How to Use
+## 📱 Hubungi & Ikuti
+Dapatkan update terbaru atau ajukan pertanyaan melalui platform berikut:
 
-1. Download or clone the repository.
-2. Open Roblox Studio.
-3. Import or paste the assets into your game.
-4. For scripts, update any required IDs (e.g., `ServerScriptService` IDs) as indicated in each script.
-
----
-
-## ✅ Terms of Use
-
-- **Free to use:** All assets are provided at no cost.
-- **Do not resell:** You cannot sell these assets as your own.
-- **Credit required:** Always include credit to `@TheDranxX` if you use any of the assets.
-- **Customization allowed:** Feel free to modify the assets to suit your project.
+<p align="left">
+  <a href="https://discord.gg/Bb3aY3Wrxj"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://youtube.com/@TheDranxX"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/the_dranxx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@thedranxx"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🌐 Contribution
+## 🛠️ Kategori Aset
 
-If you want to contribute to this repository or report issues, feel free to open a pull request or issue on GitHub.
+| Kategori | Deskripsi |
+| :--- | :--- |
+| **📜 Scripts** | Sistem fungsional, mekanik game, dan optimasi Luau. |
+| **🏗️ Models** | Bangunan, dekorasi map, dan objek 3D berkualitas. |
+| **🎨 GUI Elements** | UI modern, HUD, dan transisi layar yang estetik. |
+| **⚔️ Tools** | Gear, senjata, dan sistem inventory siap pakai. |
+| **⚙️ Misc** | VFX (Particle), Sound effects, dan aset tambahan lainnya. |
 
 ---
 
-## 📬 Contact
+## ⚡ Panduan Instalasi
 
-Follow or reach out to `@TheDranxX` for more assets, updates, or collaboration inquiries.
+1. **Unduh Aset:** Clone repositori ini atau download file `.rbxm` yang diinginkan.
+2. **Import ke Studio:** Buka Roblox Studio, klik kanan pada Explorer, dan pilih **"Insert from File"**.
+3. **Penempatan:** Pindahkan aset ke folder yang sesuai (misal: Script ke `ServerScriptService`).
+4. **Konfigurasi:** Periksa instruksi di dalam script untuk setup ID atau variabel tertentu.
 
 ---
 
-**Enjoy building your Roblox games!**
+## ✅ Syarat & Ketentuan
+
+Agar aset ini tetap bisa dinikmati semua orang, mohon ikuti aturan sederhana ini:
+
+* **Gratis Total:** Gunakan untuk game personal maupun komersial.
+* **Jangan Dijual Kembali:** Dilarang keras mengklaim atau menjual ulang aset ini.
+* **Wajib Credit:** Cantumkan nama `@TheDranxX` di dalam game atau deskripsi game kamu.
+* **Bebas Modifikasi:** Silakan ubah kode atau tampilan sesuai kebutuhan proyekmu.
+
+---
+
+## 🤝 Kontribusi
+Punya ide atau menemukan bug? Jangan ragu untuk membuka **Issue** atau kirim **Pull Request**. Kontribusi kamu sangat berharga untuk mengembangkan komunitas ini!
+
+<p align="center">
+  Developed with ✨ by <b>TheDranxX</b><br>
+  <i>"Happy Building, Happy Scripting!"</i>
+</p>
