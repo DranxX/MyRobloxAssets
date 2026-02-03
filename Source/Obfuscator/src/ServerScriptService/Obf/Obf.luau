@@ -23,7 +23,7 @@ local PR = {
 	PlayerScriptsLoader = true
 }
 local IG = {
-	Idk = true,
+	Idk = true, -- Change this if your change the remote path reference
 	Bakentot = true,
 	Resolver = true,
 	Repok = true
