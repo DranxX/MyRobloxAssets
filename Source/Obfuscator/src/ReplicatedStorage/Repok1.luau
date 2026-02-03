@@ -1,3 +1,5 @@
+-- You can also obfuscated this code with prometheus for VM Custom System obfuscator or other
+
 local a = game:GetService("ReplicatedStorage")
 local b = a:WaitForChild("Repok")
 b = b:FindFirstChild("Idk") or b
