@@ -74,7 +74,7 @@ A powerful obfuscation system designed to protect your Roblox client-side code f
 ## 📝 Usage Example
 
 ```lua
-local variable = require(game.ReplicatedStorage.YourModuleName)
+local variable = require(game.ReplicatedStorage.Repok)
 
 local example = variable.Get("path.to.your.object")
 ```
