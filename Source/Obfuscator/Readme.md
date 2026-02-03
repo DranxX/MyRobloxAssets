@@ -7,6 +7,24 @@
 [![Video Thumbnail](https://img.youtube.com/vi/9_g7dUbuZBk/0.jpg)](https://youtu.be/9_g7dUbuZBk)
 ---
 
+<div align="center">
+  <div align="left" style="display: inline-block; text-align: left;">
+    <p>Structure:</p>
+<pre>
+ReplicatedStorage
+└─ Repok [ModuleScript]
+   ├─ Repok1 [ModuleScript]
+   └─ Idk [Folder]
+      └─ Bakentot [Folder]
+         └─ Resolver [RemoteFunction]
+<p></p>
+ServerScriptService
+└─ Obf [Folder]
+  ‎  └─ Obf [Script]
+</pre>
+  </div>
+</div>
+---
 
 ### 📱 Connect With Me
 
