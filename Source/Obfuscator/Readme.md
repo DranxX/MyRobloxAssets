@@ -13,7 +13,6 @@
 <pre>
 ReplicatedStorage
 └─ Repok [ModuleScript]
-   ├─ Repok1 [ModuleScript]
    └─ Idk [Folder]
       └─ Bakentot [Folder]
          └─ Resolver [RemoteFunction]
